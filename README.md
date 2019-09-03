@@ -1,9 +1,7 @@
 # Conlang Nanopass Compiler
 A compiler to help creating constructed language
 
-I have been researching artificial language creation since about 2006.
-
-[Here](https://github.com/guenchi/language-creating) is an archive and public demonstration of some of my work in 2011.
+I have been researching constructed language creation since about 2006. [Here](https://github.com/guenchi/language-creating) is an archive and public demonstration of some of my work in 2011.
 
 Undertake the constructed language design needed in novels, movies, TV series and other works.
 
