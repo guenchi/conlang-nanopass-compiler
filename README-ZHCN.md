@@ -1,6 +1,4 @@
-我从大约2006年开始研究人工语言创造。
-
-[这里](https://github.com/guenchi/language-creating)是我在2011年一些工作的存档和公开的演示。
+我从大约2006年开始研究人工语言创造。[这里](https://github.com/guenchi/language-creating)是我在2011年一些工作的存档和公开的演示。
 
 对外承接小说，电影，电视剧等作品中需要的人工语言设计。
 
